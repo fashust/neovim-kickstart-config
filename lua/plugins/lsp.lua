@@ -176,6 +176,8 @@ return {
               pylsp_mypy = { enabled = false },
               pylsp_black = { enabled = false },
               pylsp_isort = { enabled = false },
+              black = { enabled = false },
+              pylint = { enabled = false },
             },
           },
         },
